@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ## 🔥 About Me  
 - 🎓 Computer Science Student  
 - 💻 Web Developer | Cybersecurity Enthusiast | ML Explorer  
-- 🏆 SOF Cyber Olympiad Medalist  
 - 🔍 Passionate about AI, Cybersecurity & Full-Stack Development  
 
 ## 💡 Tech Stack  
