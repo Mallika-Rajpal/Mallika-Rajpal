@@ -30,11 +30,6 @@ Here are some ideas to get you started:
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Git, VS Code, Docker  
 
-## 🌟 Featured Projects  
-🔹 **Sentiment Analysis for Social Media Trends** – Real-time Instagram hashtag sentiment analysis using ML.  
-🔹 **Weather Website** – Forecasting app using HTML, CSS, JavaScript, and API integration.  
-🔹 **Amazon UI Clone** – Responsive Amazon front-end clone using HTML & CSS.  
-
 ## 📊 GitHub Stats  
 ![Mallika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mallika-Rajpal&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mallika-Rajpal&layout=compact&theme=tokyonight)  
