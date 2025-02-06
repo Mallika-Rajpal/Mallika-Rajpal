@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🚀 Gateway to Success | Mallika Rajpal  
+#  Mallika Rajpal  
 
 ### 👋 Hey there! I'm Mallika, a tech enthusiast, problem solver, and lifelong learner.  
 
