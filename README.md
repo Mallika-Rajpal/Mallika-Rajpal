@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔍 Passionate about AI, Cybersecurity & Full-Stack Development  
 
 ## 💡 Tech Stack  
-- **Languages:** JavaScript, Python, C++  
+- **Languages:** JavaScript, Python, C++, Java
 - **Web:** React.js, Node.js, Express  
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Git, VS Code, Docker  
