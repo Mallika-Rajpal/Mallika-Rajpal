@@ -5,7 +5,7 @@
 
 ## About Me  
 Computer Science Student  
-Web Developer | Machine Learning & Generative AI Explorer  
+Web Developer | Machine Learning & Gen AI Explorer  
 Passionate about AI, GenAI, and Full-Stack Development  
 Obsessed with building smart, scalable, and meaningful tech that makes life better.
 
